@@ -1,4 +1,4 @@
-# Projeto Solar System 
+# Projeto One for All 
 
 Este repositório contém o projeto One for ALl desenvolvido por [Renan Pinto](https://www.linkedin.com/in/renan-npinto/) enquanto estudava na [Trybe](https://www.betrybe.com/) no módulo de Back-end.
 
